@@ -1,6 +1,4 @@
-# CS-499
-
-# Code Review
-
-[![Code Review](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D-2clA_Pd_Rg)](https://www.youtube.com/watch?v=-2clA_Pd_Rg)
+# SNHU CS 499 Capstone
+This repository holds the files needed for the final project of this course.
+By Kelsey Wanderlingh
 
