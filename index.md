@@ -1,6 +1,3 @@
-# CS-499 ePortfolio
-by Kelsey Wanderlingh
-
 # Professional Self-Assessment
 
 # Code Review
