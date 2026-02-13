@@ -5,4 +5,5 @@ plugins:
 relative_links:
   enabled: true
   collections: true
-include:
+title: CS-499 ePortfolio
+description: by Kelsey Wanderlingh
