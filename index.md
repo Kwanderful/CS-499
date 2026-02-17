@@ -30,7 +30,7 @@ When going from Assembly to C++, I saw this password ("123") in the Assembly. Th
 ## Why was that artifact chosen?
 I wanted to test my ability to fix the vulnerabilities while also showing that I can rewrite a program in a different language. I also wanted to practice using PyMongo because I had never used it before and wanted to get familiar with varying ways of using and accessing databases like MongoDB. Creating secure code is an important part of being a programmer and is expected by employers. I felt that I could meet most of the course outcomes with this enhancement. With Python and PyMongo, I could greatly enhance the security just by fixing the login function alone:
 
-![Image showing the new login function, which checks a database](/imgs/enh1_enhanced_password.png)
+![Image showing the new login function, which checks a database](/imgs/enh1_enh_password.png)
 
 ## What was learned?
 I met four of the five course outcomes with this enhancement.
