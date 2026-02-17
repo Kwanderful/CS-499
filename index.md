@@ -18,7 +18,7 @@
 [![Code Review](/imgs/code_review.png)](https://www.youtube.com/watch?v=-2clA_Pd_Rg)
 
 # Enhancement 1: Software Design & Engineering
-### [original artifact](https://github.com/Kwanderful/CS-499/tree/main/enhancement1/original) | [enhanced version](https://github.com/Kwanderful/CS-499/tree/main/enhancement1/enhanced)
+### [original artifact](https://github.com/Kwanderful/CS-499/blob/main/enhancement1/original/Project2.cpp) | [enhanced version](https://github.com/Kwanderful/CS-499/blob/main/enhancement1/enhanced/enhancement1.py) | [helper functions](https://github.com/Kwanderful/CS-499/blob/main/enhancement1/enhanced/helper_functions.py)
 
 ## The artifact:
 The artifact that I chose for this enhancement is the CS-410 Project 2 program. It is a C++ file that was translated from Assembly language. Its purpose is to allow administrators of an Investment Company to view and change information on their clients. For that assignment, I had to go through the code and fix any errors and security vulnerabilities but also had to keep it to C++. This meant that there were some vulnerabilities I could not address, and that was expected for that assignment. One of these vulnerabilities was that the program’s login function presented the password in plaintext, meaning that anyone that has access to the code could see it and login. This was the vulnerability that stood out to me the most. 
