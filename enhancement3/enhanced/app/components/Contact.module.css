@@ -1,0 +1,25 @@
+.contactCard {
+    display: flex;
+    flex-direction: column;
+    border-style: solid;
+    border-color: rgb(105, 105, 105);
+    border-width: 2px;
+    padding: 8px;
+}
+.nameRow {
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    column-gap: 0.3rem;
+}
+
+.buttonRow {
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+    column-gap: 0.6rem;
+}
+
+.contactButton {
+    cursor: pointer;
+}

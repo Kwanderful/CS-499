@@ -1,0 +1,15 @@
+.message {
+    font-size: 20px;
+}
+.navbarContainer {
+    margin-bottom: 3rem;
+}
+
+.iconsCredit {
+    position: fixed;
+    bottom: 0;
+    right: 40%;
+    margin-bottom: 0.5rem;
+    font-size: 12px;
+    
+}

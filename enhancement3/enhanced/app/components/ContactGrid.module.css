@@ -1,0 +1,11 @@
+.contactGrid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 450px));
+    justify-content: center;
+    gap: 2rem;
+}
+
+.gridItem {
+    display: flex;
+    width: 50px;
+}
