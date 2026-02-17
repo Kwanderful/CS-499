@@ -14,6 +14,7 @@
 # Professional Self-Assessment
 
 # Code Review
+Click below to watch the video on YouTube where I discuss my artifacts and my plans for their enhancements.
 
 [![Code Review](/imgs/code_review.png)](https://www.youtube.com/watch?v=-2clA_Pd_Rg)
 
