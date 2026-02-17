@@ -43,13 +43,8 @@ int getInt(const string& text) {
 }
 
 int CheckUserPermissionAccess() {
-	// Variables should be initialized
-	// Not good to assume that uninitialized is equal to 0 or null
 	string username, user_password = "";
 
-	// Getline for safer input, and because
-	// we use getline everywhere else
-	// This prevents input from being stuck in the buffer
 	cout << "Enter your username: \n";
 	getline(cin, username);
 	cout << "Enter your password: \n";
