@@ -11,4 +11,5 @@ You can add contacts and they will immediately show up on the contact list
 ![Image showing the ability to add a contact](/imgs/enh3_add.png) 
 
 And edits will, as well.
-![Image showing the ability to edit a contact](/imgs/enh3_edit.png)
+![Image showing the ability to edit a contact](/imgs/enh3_edit1.png)
+![Image showing that the edited contact is now there](/imgs/enh3_edit2.png)
