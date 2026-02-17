@@ -91,3 +91,33 @@ I also tried to think about the ways in which people might want the data to be r
 
 # Enhancement 3: Databases
 ### [original artifact](https://github.com/Kwanderful/CS-499/tree/main/enhancement3/original) | [enhanced version](https://github.com/Kwanderful/CS-499/tree/main/enhancement3/enhanced)
+
+## The artifact:
+The artifact that I used for this enhancement was my CS 320 Project that included class files for Contact and ContactService. While this artifact is very simple, I thought it had a lot of room for improvement. The Contact class’s attributes are a contact ID, first name, last name, phone number, and address. The ContactService class has an array of contacts and functions to update individual fields, a function to add a contact, and a function to delete a contact. There was no associated main file with these classes, so the project was pretty bare-bones with a lot of room for enhancements.
+
+## Why was the artifact chosen?
+Having the ability to create, read, update, and delete is standard CRUD format, so I got the idea to turn these into a full-stack application using Next JS and MongoDB. This would let me show off my skills in the field I am most interested in: full-stack development. Since this is the Databases category, it was imperative that I chose a database to connect the Contact class to. I chose MongoDB because I wanted more experience using it and because it is a part of the stacks I am most interested in developing in such as MEAN and MERN. 
+
+For CS 465, I connected an Angular app to MongoDB and so I wanted to try connecting a React app to it this time. I felt as though this would help me show that I can adapt by taking what I’ve learned in other technologies. The artifact was greatly improved because it basically went from an idea (two class files with no associated program) to a full-blown interactive and usable website.
+
+Here is the finished website on both desktop and mobile:
+
+![Image showing the contacts website on desktop](/imgs/enh3_main.png) ![Image showing the contacts website on mobile](/imgs/enh3_mobile.png)
+
+![Image showing the ability to add a contact](/imgs/enh3_add.png) ![Image showing the ability to edit a contact](/imgs/enh3_edit.png)
+
+## What was learned?
+I also met all five course outcomes with this enhancement.
+
+#### Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science
+    
+#### Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts
+    
+#### Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices
+
+#### Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals
+
+#### Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources
+
+## Reflection
+
