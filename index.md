@@ -100,7 +100,7 @@ Having the ability to create, read, update, and delete is standard CRUD format, 
 
 For CS 465, I connected an Angular app to MongoDB and so I wanted to try connecting a React app to it this time. I felt as though this would help me show that I can adapt by taking what I’ve learned in other technologies. The artifact was greatly improved because it basically went from an idea (two class files with no associated program) to a full-blown interactive and usable website.
 
-![Click here to see various screenshots of the finished website](/enhancement3.md)
+![Click here to see various screenshots of the finished website](enhancement3.md)
 
 ## What was learned?
 I also met all five course outcomes with this enhancement.
