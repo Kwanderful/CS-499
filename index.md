@@ -25,7 +25,6 @@ In this portfolio and my enhancements, I tried to demonstrate the skills I learn
 This portfolio includes two artifacts and enhances them for software engineering, data structure and algorithms, and databases. I have included the source code for both the original artifacts and the enhanced versions. 
 
 
-
 # Code Review
 Click below to watch the video on YouTube where I discuss my artifacts and my plans for their enhancements.
 
@@ -120,14 +119,19 @@ For CS 465, I connected an Angular app to MongoDB and so I wanted to try connect
 I also met all five course outcomes with this enhancement.
 
 #### 1. Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science
-    
+I turned an idea into a website that allows users to interact with it fully. The functionality desired in the ContactService class was integrated into a web application that lets users manage their contacts.
+
 #### 2. Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts
-    
+The website is responsive, meaning it works well on both desktop and mobile phone. With mobile-first development being as important as ever, I made sure that it looked good on both. This allows more audiences to engage with my application.
+
 #### 3. Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices
+I employed a data structure to manage the MongoDB connection. Next is particular about what you are allowed to import in each Reach component, so I had to develop my own data structure to hold the data from MongoDB. I also made use of useEffect to reload data efficiently and keep the management of contacts feeling quick and responsive.
 
 #### 4. Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals
+Outcome 4 was met by my use of innovative technology. Turning two C++ files into a MERN stack application shows my knowledge of full-stack development. I wanted the files to be made into something usable.
 
 #### 5. Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources
+I had a security mindset throughout the development process. I chose Next JS because it has separate client and server components, with server components not being shown to the client. This meant I had to be careful with what I had in each component and means that the database information is safe and secure.
 
 ## Reflection
-
+This artifact enhancement took the most time for me. Learning about Next JS’s restrictions as far as file imports and client vs server components was challenging. I also used TypeScript which ended up causing a lot of errors due to my lack of knowledge in using types correctly. I made a unique type for my MongoDB schema but then had to be sure not to import that type into any client components because that would reveal my mongoose information. I do like that Next is “picky” about this, because it helped me practice secure coding. That’s a reason that I chose it over just pure React. Having the server capabilities built-in saved me some time and helped me understand what should be on the client and what shouldn’t. 
